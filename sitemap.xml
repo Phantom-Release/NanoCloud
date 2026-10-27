@@ -1,11 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://nanocloud-release.github.io/NanoCloud/</loc>
-    <lastmod>2026-09-05</lastmod>
-  </url>
-  <url><loc>https://nanocloud-release.github.io/NanoCloud/plans.html</loc><lastmod>2026-09-05</lastmod></url>
-  <url><loc>https://nanocloud-release.github.io/NanoCloud/trial.html</loc><lastmod>2026-09-05</lastmod></url>
-  <url><loc>https://nanocloud-release.github.io/NanoCloud/windows-client.html</loc><lastmod>2026-09-05</lastmod></url>
-  <url><loc>https://nanocloud-release.github.io/NanoCloud/network-troubleshooting.html</loc><lastmod>2026-09-05</lastmod></url>
-</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://phantom-release.github.io/NanoCloud/</loc><lastmod>2026-10-28</lastmod></url><url><loc>https://phantom-release.github.io/NanoCloud/plans.html</loc><lastmod>2026-10-28</lastmod></url><url><loc>https://phantom-release.github.io/NanoCloud/trial.html</loc><lastmod>2026-10-28</lastmod></url><url><loc>https://phantom-release.github.io/NanoCloud/windows-client.html</loc><lastmod>2026-10-28</lastmod></url><url><loc>https://phantom-release.github.io/NanoCloud/network-troubleshooting.html</loc><lastmod>2026-10-28</lastmod></url></urlset>
